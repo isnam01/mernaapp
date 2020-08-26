@@ -1,13 +1,16 @@
-# mernaapp
-Application build completely using mern stack 
+# Mernaapp
+Application build completely using mern stack .
 
-The functionality used on client side are:
+# Deployed using netlify and heroku
+Link - https://thefoodquest.netlify.app/
+
+The technology used on client side are:
 REACT
 REACT-ROUTER-DOM
 REDUX
 FETCH 
 
-The functionality used on server side are:
+The technology used on server side are:
 NODEJS
 EXPRESS
 MONGODB ATLAS
